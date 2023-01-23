@@ -1,4 +1,4 @@
-import requests, json, threading, bs4
+import requests, bs4
 import sqlalchemy
 from sqlalchemy.orm import declarative_base, Session
 from sqlalchemy import INTEGER, Text, Column
